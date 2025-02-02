@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "id": "7891234567895",
+      "name": "Chocolate ao Leite",
+      "image": "https://static1.efacil.com.br/wcsstore/ExtendedSitesCatalogAssetStore/Imagens/1000/4301574_02.jpg",
+      "country": "Brasil",
+      "business": "Nestlé",
+      "ingredients": ["Açúcar", "Leite", "Cacau", "Manteiga de Cacau", "Lecitina de Soja"]
+    },
+    {
+      "id": "4001234567891",
+      "name": "Biscoito Recheado",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkg38eWn6Z5qMwLgdAcPQ-3-jWqgoRM3C-zw&s",
+      "country": "Alemanha",
+      "business": "Bahlsen",
+      "ingredients": ["Farinha de Trigo", "Açúcar", "Óleo Vegetal", "Chocolate", "Aromatizantes"]
+    },
+    {
+      "id": "501123456780",
+      "name": "Chá Preto",
+      "image": "https://example.com/images/cha.jpg",
+      "country": "Reino Unido",
+      "business": "Twinings",
+      "ingredients": ["Folhas de Chá Preto"]
+    },
+    {
+      "id": "8901234567890",
+      "name": "Leite Condensado",
+      "image": "https://example.com/images/leite_condensado.jpg",
+      "country": "Índia",
+      "business": "Amul",
+      "ingredients": ["Leite", "Açúcar"]
+    },
+    {
+      "id": "6931234567890",
+      "name": "Macarrão Instantâneo",
+      "image": "https://example.com/images/macarrao.jpg",
+      "country": "China",
+      "business": "Nissin",
+      "ingredients": ["Farinha de Trigo", "Óleo de Palma", "Sal", "Tempero em Pó"]
+    },
+    {
+      "id": "8411234567890",
+      "name": "Azeite de Oliva Extra Virgem",
+      "image": "https://example.com/images/azeite.jpg",
+      "country": "Espanha",
+      "business": "Carbonell",
+      "ingredients": ["Azeite de Oliva Extra Virgem"]
+    },
+    {
+      "id": "3801234567890",
+      "name": "Iogurte Natural",
+      "image": "https://example.com/images/iogurte.jpg",
+      "country": "Bulgária",
+      "business": "Danone",
+      "ingredients": ["Leite", "Fermento Lácteo"]
+    },
+    {
+      "id": "4561234567890",
+      "name": "Molho de Soja",
+      "image": "https://example.com/images/molho_soja.jpg",
+      "country": "Japão",
+      "business": "Kikkoman",
+      "ingredients": ["Soja", "Trigo", "Água", "Sal"]
+    },
+    {
+      "id": "5601234567890",
+      "name": "Vinho do Porto",
+      "image": "https://example.com/images/vinho.jpg",
+      "country": "Portugal",
+      "business": "Sandeman",
+      "ingredients": ["Uvas", "Álcool", "Açúcar"]
+    },
+    {
+      "id": "0611234567890",
+      "name": "Xarope de Bordo",
+      "image": "https://example.com/images/xarope.jpg",
+      "country": "Canadá",
+      "business": "Maple Joe",
+      "ingredients": ["Seiva de Bordo Pura"]
+    }
+  ]
+}
